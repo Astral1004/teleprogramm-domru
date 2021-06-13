@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Телепрограмма DOM.RU (ReactJS, React-redux, Reac-hooks)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Данное приложение отображает список доступных каналов для Екатеринбурга, с возможность просмогтра телепрограммы.
+## Фотографии приложения
+<img src=“https://github.com/Astral1004/teleprogramm-domru/tree/main/public/image-1.png”>
 
 In the project directory, you can run:
 
