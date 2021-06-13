@@ -2,7 +2,7 @@
 
 Данное приложение отображает список доступных каналов для Екатеринбурга, с возможность просмогтра телепрограммы.
 ## Фотографии приложения
-![Главная страница](https://github.com/Astral1004/teleprogramm-domru/tree/main/public/image-1.png)
+![Главная страница](https://github.com/Astral1004/teleprogramm-domru/blob/main/public/image-1.png)
 
 In the project directory, you can run:
 
