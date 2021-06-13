@@ -1,0 +1,31 @@
+.channelListItem{
+    background-color: rgb(255, 255, 255);
+    flex: 30%;
+    max-width: 30%;
+    margin: 1rem;
+    padding: .5rem;
+    position: relative;
+
+    -webkit-box-shadow: 4px 8px 31px 0px rgba(34, 60, 80, 0.33);
+    -moz-box-shadow: 4px 8px 31px 0px rgba(34, 60, 80, 0.33);
+    box-shadow: 4px 8px 31px 0px rgba(34, 60, 80, 0.33);
+}
+
+.channelBtn{
+    position: absolute;
+    bottom: 1rem;
+    right: 2rem;
+    padding: .5rem;
+}
+
+.channelBtn:hover {
+    background-color: #4c5dfc;
+    color: #fff;
+}
+
+@media (max-width:500px) {
+    .channelListItem{
+        max-width: 80%;
+    }
+    
+}

@@ -1,0 +1,14 @@
+.container{
+    margin-bottom: 4rem;
+    min-width: 100px;
+}
+
+.channelInfo {
+    display: flex;
+}
+
+.channelInfo h2{
+    font-weight: 400;
+    margin-left: 2rem;
+    color: #383838;
+}

@@ -1,0 +1,79 @@
+.channelProgrammList{
+    background-color: #fff;
+    margin: 0;
+    padding: 1.5rem;
+}
+
+.channelHeader{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.channelTitle{
+    margin-bottom: 1rem;
+    color:#515353;
+}
+
+.date{
+    padding-right: 1rem;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 1rem;
+
+}
+
+.content img{
+    width: 25%;
+    height: 25%;
+    margin-right: 1rem;
+}
+
+.containerTitle{
+    font-weight: 700;
+}
+
+.popup{
+    cursor: pointer;
+    font-weight: 350;
+    color:#3c88fa ;
+    margin-bottom: 1rem;
+    width: auto;
+}
+
+.popup svg {
+    margin-right: .8rem;
+    color:#3c88fa ;
+    padding-bottom: 3px;
+
+}
+.popup path{
+    fill:#3c88fa ;
+}
+
+.dontVisseble{
+    display:none;
+}
+
+.visseble{
+    display: block;
+    font-size: 18px;
+}
+
+.rotated {
+    transform: rotate(180deg);
+  }
+
+  @media (max-width:600px) {
+      .channelHeader{
+          margin-bottom: .5rem;
+      }
+      .channelTitle{
+          font-size: 16px;
+      }
+  }
