@@ -8,7 +8,7 @@
 ![Телепрограмма канала](https://github.com/Astral1004/teleprogramm-domru/blob/main/public/image-2.png)
 ![Телепрограмма канала](https://github.com/Astral1004/teleprogramm-domru/blob/main/public/image-3.png)
 ### Используемые технологии 
-React Native , Redux, React Hooks 
+ReactJS , Redux, React Hooks 
 
 Для запуска проекта необходимо выполнить:
 ### `npm install`
